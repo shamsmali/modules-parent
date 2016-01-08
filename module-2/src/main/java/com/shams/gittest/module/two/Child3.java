@@ -1,20 +1,19 @@
 /**
  * 
  */
-package com.shams.gittest.module.one;
+package com.shams.gittest.module.two;
 
 /**
  * @author shams
  *
  */
-public class PrimaNumbers {
+public class Child3 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
-		System.out.println("dsf sdfsd");
+		// TODO Auto-generated method stub
 
 	}
 
